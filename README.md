@@ -22,6 +22,7 @@
  
 <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000?style=plastic&logo=Express&logoColor=white" />
+<img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=NGINX&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=Sass&logoColor=white" /> 
