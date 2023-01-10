@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000?style=plastic&logo=Next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=Redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=plastic&logo=Nuxt.js&logoColor=white" />
   
 <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white" />
 
